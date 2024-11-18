@@ -1,0 +1,13 @@
+Flask==2.1.0
+scikit-learn==1.0.2
+openai==0.27.0
+groq==0.1.1  # تحقق من إصدار مكتبة Groq
+google-generativeai==0.5.0  # تحقق من الإصدار المستخدم
+flask-cors==3.1.1
+tiktoken==0.10.0
+PyPDF2==2.11.2
+python-docx==0.8.11
+requests==2.26.0
+pandas==1.3.3
+beautifulsoup4==4.10.0
+csv==1.0.0  # المكتبة built-in لا تحتاج إلى تثبيت، ولكن إذا كنت تستخدم مكتبة خارجية يمكن إضافتها
